@@ -1,0 +1,13 @@
+# database (contains tokens!)
+*.db
+*.db-wal
+*.db-shm
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local config
+.env
